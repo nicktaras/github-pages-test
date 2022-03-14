@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nicktaras.github.io/github-pages/static/css/main.073c9b0a.css",
-    "main.js": "/nicktaras.github.io/github-pages/static/js/main.7ead9eff.js",
-    "static/js/787.0c3f432a.chunk.js": "/nicktaras.github.io/github-pages/static/js/787.0c3f432a.chunk.js",
-    "static/media/logo.svg": "/nicktaras.github.io/github-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/nicktaras.github.io/github-pages/index.html",
-    "main.073c9b0a.css.map": "/nicktaras.github.io/github-pages/static/css/main.073c9b0a.css.map",
-    "main.7ead9eff.js.map": "/nicktaras.github.io/github-pages/static/js/main.7ead9eff.js.map",
-    "787.0c3f432a.chunk.js.map": "/nicktaras.github.io/github-pages/static/js/787.0c3f432a.chunk.js.map"
+    "main.css": "/nicktaras.github.io/github-pages-test/static/css/main.073c9b0a.css",
+    "main.js": "/nicktaras.github.io/github-pages-test/static/js/main.d7c81c41.js",
+    "static/js/787.275e4d8a.chunk.js": "/nicktaras.github.io/github-pages-test/static/js/787.275e4d8a.chunk.js",
+    "static/media/logo.svg": "/nicktaras.github.io/github-pages-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nicktaras.github.io/github-pages-test/index.html",
+    "main.073c9b0a.css.map": "/nicktaras.github.io/github-pages-test/static/css/main.073c9b0a.css.map",
+    "main.d7c81c41.js.map": "/nicktaras.github.io/github-pages-test/static/js/main.d7c81c41.js.map",
+    "787.275e4d8a.chunk.js.map": "/nicktaras.github.io/github-pages-test/static/js/787.275e4d8a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7ead9eff.js"
+    "static/js/main.d7c81c41.js"
   ]
 }
